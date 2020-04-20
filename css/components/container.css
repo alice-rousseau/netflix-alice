@@ -1,0 +1,26 @@
+
+.container1{
+	margin:0px auto;
+	width:900px;
+	color:white;
+}
+
+.container{
+	margin:0px auto;
+	width:1400px;
+	color:white;
+}
+
+
+@media(max-width:549px){
+	.container1{
+	width:500px;
+	margin:0px auto;
+              }
+    .card-one{
+	display: flex;
+	width:500px;
+	margin-left:0px auto;
+	
+}
+}

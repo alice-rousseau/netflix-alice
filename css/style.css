@@ -1,0 +1,76 @@
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card-zero.css");
+@import url("components/netflix-logo.css");
+@import url("components/button-one.css");
+
+
+
+body{
+ font-family:"Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ color:white;
+ background-color:rgb(35,35,35);
+ margin:0px;
+ margin-bottom:0px;
+}
+
+h1{
+font-size:50px;
+font-weight:700;
+color:white;
+
+}
+
+h2{
+    font-weight: normal;
+    font-size:26px;
+    color:white;
+}
+
+a{
+	text-decoration:none;
+}
+
+p{
+	margin:0px;
+	    color: #757575;
+	    font-size:16px;
+}
+
+li{
+	font-size:13px;
+	color:#757575;
+	padding-bottom:10px;
+}
+
+h5{
+	color:#757575;
+	font-size:13px;
+}
+
+li:hover{
+text-decoration:underline;
+}
+
+.list-item:hover{
+	text-decoration:none;
+}
+
+p:hover {
+	text-decoration:underline;
+
+}
+
+.card-four h1{
+	margin-left:170px;
+	padding-bottom:30px;
+
+}
+
+
+
+
+
+   
+
+

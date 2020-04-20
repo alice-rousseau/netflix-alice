@@ -1,0 +1,302 @@
+.card-zero{
+	margin-top:140px;
+	padding-bottom:20px;
+	margin-bottom:15px;
+}
+
+
+
+
+
+
+
+
+.card-one{
+	display: flex;
+	width:1120px;
+	margin-left:180px;
+	
+}
+
+
+.card-one img{
+	width:550px;
+	z-index:1;
+
+}
+
+.card-one video{
+	position:absolute;
+	height:233px;
+	width:400px;
+	margin-left:642px;
+	padding-top:83px;
+
+
+}
+
+.text-one{
+	display:inline;
+	margin-top:90px;
+
+}
+
+
+
+.card-two{
+    display: flex;
+	width:1220px;
+	margin-left:80px;
+}
+
+
+
+
+
+.card-two img{
+    height: 380px;
+    margin-top:30px;
+    width:520px;
+
+}
+
+
+
+.our-story-card-animation img{
+	height:69px;
+	width:50px;
+	padding-right:15px;
+	padding-left:10px;
+	padding-bottom:27px;
+
+}
+
+
+.our-story-card-animation{
+	position:absolute;
+	display:flex;
+	text-align:left;
+	background-color:red;
+	align-items:center;
+    background: black;
+    border: 2px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 0 2em 0 #000000;
+    border-radius: 0.75em;
+    height:88px;
+    width:330px;
+    margin-top:290px;
+    margin-left:90px;
+
+}
+
+
+	
+.text-0{
+	font-weight:bolder;
+}
+
+.text-1{
+	color:#0071eb;
+}
+
+.our-story-card-animation::after {
+    width: 3em;
+    height: 3em;
+    outline: 2px solid black;
+    outline-offset: -2px;
+    display: block;
+    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif) center center no-repeat;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    content: '';
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -moz-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
+
+
+.text-two{
+   display:inline;
+	margin-top:65px;
+	padding-left:90px;
+	padding-right:50px;
+}
+
+
+
+.card-three{
+	display: flex;
+	width:1220px;
+	margin-left:180px;
+	
+}
+
+.card-three img{
+	width:550px;
+	margin-top:50px;
+	margin-right:78px;
+	z-index:1;
+}
+
+.card-three video{
+	position:absolute;
+	height:190px;
+	width:412px;
+	margin-left:658px;
+	padding-top:93px;
+
+}
+
+
+.text-three{
+	display:inline;
+	margin-top:100px;
+	padding-right:50px;
+
+}
+
+.card-four{
+	width:700px;
+	margin-left:0px;
+	padding-top:5px;
+	
+
+}
+
+
+
+
+
+.list{
+ padding-top:70px;
+ width:820px;
+ margin-left:280px;
+}
+
+
+.go{
+	display:flex;
+	padding-top:20px;
+	justify-content:space-between;
+	align-items:center;
+
+
+}
+
+
+
+.one li{
+	list-style:none;
+	margin-left:0px;
+}
+
+.two li{
+	list-style:none;
+}
+
+.three li{
+	list-style:none;
+}
+
+.four li{
+	list-style:none;
+}
+
+
+
+
+.ui-select-wrapper{
+	color:rgb(117, 117, 117);
+	padding-top:15px;
+	padding-bottom:15px;
+	width:140px;
+
+
+
+}
+
+#undefined-select{ 
+background-color:black;
+font-size:16px;
+font-weight:normal;
+border-color:rgb(117, 117, 117);
+
+ }
+
+.ui-select-wrapper .select-arrow.prefix::before {
+    font-family: 'nf-icon';
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    padding-top:5px;
+}
+
+
+.ui-select-wrapper .select-arrow::after {
+    font-family: 'nf-icon';
+    color: rgb(117, 117, 117);
+    font-size: 6px;
+    content: '\e898';
+    padding-top:5px;
+}
+    
+
+
+ul li{
+	position:relative;
+	display:block;
+
+
+}
+
+ul li ul{
+	position:relative;
+	display:none;
+	background-color:#303030;
+}
+
+
+
+
+.list{
+	overflow:hidden;
+	width:815px;
+	padding-left:35px;
+	margin-top:0px;
+	
+}
+
+.list-item{
+	overflow:hidden;
+	padding:0.4em 2.2em 0.4em 1.2em;
+	margin:0px 0px 8px 0px;
+	font-weight:400px;
+	position:relative;
+	width:100%;
+	border:0;
+	background-color:#303030;
+	text-align:left;
+	cursor:pointer;
+	line-height:2;
+	font-size:26px;
+	color:white;
+}
+
+.fas fa-plus{
+	margin:15px 60px;
+}
+
+.form{
+	padding-left:280px;
+	width:900px;
+	padding-top:20px;
+}
+
+
+
+
